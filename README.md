@@ -151,10 +151,12 @@ Using ruby-2.2.0 with gemset default
 
 If you didn't have rails installed for ruby 2.2.2, you'll see this:
 
+*DO NOT FOLLOW THE INSTRUCTIONS to sudo anything :)*
+
 ```
 Rails is not currently installed on this system. To get the latest version, simply type:
 
-    $ sudo gem install rails
+    $ xudo gem install rails
 ```
 In which case you probably want to do this:
 
